@@ -9,3 +9,4 @@ Get tutorials and code snippets on Python programming language.
 - __Tutorial 1__: *[How to Add Text to an Image Using Python](https://nsikakimoh.com/blog/install-multiple-versions-of-python-on-macosx)*.
 - __Tutorial 2__: *[How to Install Multiple Specific Versions of Python on MacOSX](https://nsikakimoh.com/blog/add-text-to-an-image-using-pillow-in-python)*.
 - __Tutorial 3__: *[Build a Text Paraphraser Using Python with Pegasus Transformer for NLP](https://nsikakimoh.com/blog/text-paraphraser-using-python)*.
+- __Tutorial 4__: *[What is the Difference Between Encapsulation and Information Hiding in OOP?](https://nsikakimoh.com/blog/encapsulation-vs-information-hiding)*.
