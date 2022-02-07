@@ -11,3 +11,4 @@ Get tutorials and code snippets on Python programming language.
 - __Tutorial 3__: *[Build a Text Paraphraser Using Python with Pegasus Transformer for NLP](https://nsikakimoh.com/blog/text-paraphraser-using-python)*.
 - __Tutorial 4__: *[What is the Difference Between Encapsulation and Information Hiding in OOP?](https://nsikakimoh.com/blog/encapsulation-vs-information-hiding)*.
 - __Tutorial 5__: *[Everything to Know About Cohesion and Coupling with Examples](https://nsikakimoh.com/blog/cohesion-and-coupling-with-examples)*.
+- __Tutorial 6__: *[What Are Lambda Functions in Python and How to Use them](https://nsikakimoh.com/blog/lambda-functions-in-python-and-their-uses)*.
